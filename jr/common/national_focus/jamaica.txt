@@ -1,0 +1,23 @@
+focus_tree = {
+	id = jamaican_focus	
+
+	country = {
+		factor = 0
+
+		modifier = {
+			add = 10
+			tag = JAM
+		}
+	}
+
+	default = no
+	continuous_focus_position = { x = 1000 y = 1000 }
+
+	##########################
+	####### POLITICS #########
+	##########################
+
+
+	
+
+}

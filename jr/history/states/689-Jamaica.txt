@@ -1,0 +1,23 @@
+state={
+	id=689
+	name="STATE_689"
+	manpower = 1075000
+	
+	state_category = town
+
+	history={
+		owner = JAM
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 2
+			dockyard = 1
+			12304 = {
+				naval_base = 1
+			}
+		}
+	}
+	
+	provinces={ 12304 12477 }
+	buildings_max_level_factor=5.000
+}
