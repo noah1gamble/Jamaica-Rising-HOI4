@@ -1,0 +1,1 @@
+JAM = "countries/Jamaica.txt"
